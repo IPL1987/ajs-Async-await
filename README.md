@@ -11,3 +11,4 @@ _Легенда_
   // Your code here with await
 })();
 ```
+[![Build status](https://ci.appveyor.com/api/projects/status/2g98hli8qfbquivm/branch/main?svg=true)](https://ci.appveyor.com/project/IPL1987/ajs-async-await/branch/main)
